@@ -24,6 +24,15 @@
 
 </div>
 
+> [!IMPORTANT]
+> ### 💸 Aylık 3.000 TL Abonelik Ödemeye Son — Birebir Aynı Hizmet, %100 Ücretsiz!
+> Piyasadaki benzer biyometrik yazılımları stüdyolara ve fotoğrafçılara **aylık 2.500 TL – 3.000 TL** gibi fahiş abonelik ücretleriyle satılırken; **BiyometrikPlus** aynı profesyonel kaliteyi, resmi ICAO standartlarını ve yerel yapay zeka altyapısını **tamamen ücretsiz** sunar.
+> 
+> - ❌ Aylık / Yıllık abonelik ücreti yok
+> - ❌ Fotoğraf başına kontör / kredi sınırlaması yok
+> - ❌ Gizli ücret veya lisans kilidi yok
+> - ✅ İndirin, kurun ve sınırsızca kullanın!
+
 ---
 
 ## 📌 İçindekiler

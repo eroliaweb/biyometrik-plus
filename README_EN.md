@@ -24,6 +24,15 @@
 
 </div>
 
+> [!IMPORTANT]
+> ### 💸 Stop Paying $100+/Month — Same Studio Quality, 100% Free Forever!
+> While commercial passport photo and studio software lock photographers into **$50 – $100 / month (3,000 TL/month)** expensive subscriptions, **BiyometrikPlus** delivers the exact same professional quality, official ICAO Doc 9303 standards, and offline AI tools **completely free of charge**.
+> 
+> - ❌ No monthly or annual subscription fees
+> - ❌ No pay-per-photo credits or export limits
+> - ❌ No hidden license locks or paywalls
+> - ✅ Download, install, and use without limitations forever!
+
 ---
 
 ## 📌 Table of Contents

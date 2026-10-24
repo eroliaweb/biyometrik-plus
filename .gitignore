@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build Outputs
+dist/
+dist-electron/
+release/
+build/*.ico
+build/*.icns
+
+# Backend (Private / Server-side)
+backend/
+
+# Local Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.swo
+
+# IDE & Editor Configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

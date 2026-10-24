@@ -2,6 +2,10 @@
 
 <div align="center">
 
+**🇹🇷 Türkçe** • [🇬🇧 English](README_EN.md)
+
+<br/>
+
 ![Electron](https://img.shields.io/badge/Electron-33.2.1-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -12,6 +16,11 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **Fotoğraf stüdyoları, matbaalar ve profesyonel fotoğrafçılar için yerel yapay zeka (ONNX) destekli, resmi Türk Biyometrik standartlarına tam uyumlu masaüstü biyometrik fotoğraf hazırlama ve 10×15 baskı şablonu istasyonu.**
+
+<br/>
+
+[![İndir - Windows Installer](https://img.shields.io/badge/⬇️_HEMEN_İNDİR-Windows_Kurulum_Paketi_(v2.4.0)-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/eroliaweb/biyometrik-plus/releases/latest)
+[![Tüm Sürümler](https://img.shields.io/badge/📦_Tüm_Sürümler-Releases-blue?style=for-the-badge&logo=github)](https://github.com/eroliaweb/biyometrik-plus/releases)
 
 </div>
 
